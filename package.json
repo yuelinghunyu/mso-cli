@@ -1,6 +1,6 @@
 {
   "name": "mso-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a cli built by jdj",
   "bin": {
     "mso": "build/index.js"

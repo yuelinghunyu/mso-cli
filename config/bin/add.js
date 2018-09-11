@@ -50,7 +50,7 @@ module.exports = ()=>{
             break;
             case "react":
             gitModel = {
-                gitUrl:"",
+                gitUrl:"https://github.com/yuelinghunyu/mso-react-cli.git",
                 branch:"master",
                 description:"a react template created by jdj"
             };
