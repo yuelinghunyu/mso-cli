@@ -61,6 +61,12 @@ module.exports = ()=>{
                 branch:"master",
                 description:"a angular template created by jdj"
             };
+            case "normal":
+            gitModel = {
+                gitUrl:"https://github.com/yuelinghunyu/mso-nor-cli.git",
+                branch:"master",
+                description:"a normal(javascript/html/css) template created by jdj"
+            };
             break;
             default:
             tip.fail("please input vue、react、angular or jquery one of them"),
